@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Favorite Users</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="repositories">Repositories</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="url">URL</string>
+</resources>

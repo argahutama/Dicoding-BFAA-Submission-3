@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+    <style name="SCBSwitch" parent="Theme.AppCompat.Light">
+        <item name="colorControlActivated">#036C00</item>
+        <item name="colorSwitchThumbNormal">#000000</item>
+        <item name="android:colorForeground">#000000</item>
+    </style>
+</resources>

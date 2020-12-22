@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Github User by Arga</string>
+    <string name="username">Username</string>
+    <string name="url">URL</string>
+    <string name="tab_repos">Repositories</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="number">Number</string>
+    <string name="name">Name</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="search_user">Click search button to\nsearch Github account</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="user_not_found">User not found!</string>
+    <string name="login_successful">Login successful!</string>
+    <string name="register_successful">Register successful!</string>
+    <string name="username_already_taken">Username is already taken!</string>
+    <string name="wrong_password">Wrong password!</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="enter_username">Please enter your username</string>
+    <string name="enter_email">Please enter your email</string>
+    <string name="enter_password">Please enter your password</string>
+    <string name="enter_username_without_dot">Please enter your username without . character</string>
+    <string name="email_invalid">Email is invalid</string>
+    <string name="username_min_4">Username minimum 4 characters length</string>
+    <string name="password_min_8">Password minimum 8 characters length</string>
+    <string name="email">Email</string>
+    <string name="Logout">Logout</string>
+    <string name="password_hint">At least 8 characters long</string>
+    <string name="repository_name">Repository Name</string>
+    <string name="language">Language</string>
+    <string name="enter_your_username_here">Enter your username here</string>
+    <string name="enter_your_password_here">Enter your password here</string>
+    <string name="enter_your_email_here">Enter your email here</string>
+    <string name="enter_your_full_name">Enter your full name</string>
+    <string name="github_logo">Github Logo</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="change_language">Change Language</string>
+    <string name="daily_message">Looking For Github User? Click Here</string>
+    <string name="favorite">Favorite</string>
+    <string name="data_null">You have no favorite user!</string>
+
+    <string name="app_bar_text" translatable="false">Github User by Arga</string>
+
+</resources>
