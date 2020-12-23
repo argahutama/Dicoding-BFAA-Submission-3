@@ -20,9 +20,9 @@ class SectionsPagerAdapter(
 
     @StringRes
     val tabTitle = intArrayOf(
+        R.string.tab_repos,
         R.string.followers,
-        R.string.following,
-        R.string.tab_repos
+        R.string.following
     )
 
     fun setData(usernameGithub : String){
